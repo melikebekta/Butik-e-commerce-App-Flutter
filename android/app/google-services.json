@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104064784819",
+    "project_id": "moda-gulay-butik-bbcd7",
+    "storage_bucket": "moda-gulay-butik-bbcd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104064784819:android:fd79a359f181fc40d553c6",
+        "android_client_info": {
+          "package_name": "com.example.moda_gulay_butik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMc-zCGEcZlZnF6RRD5Wyzexd_yUXMXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
