@@ -4,14 +4,14 @@ Bu proje, kullanıcıların çeşitli giyim ürünlerini görüntüleyip satın 
 
 ## Ekran Görüntüleri
 
+### Ana Sayfa
+![Ana Sayfa](assets/git-image/1.JPG) <br>
+Yeni sezon ürünleri ve özel indirimler ana sayfada kullanıcıların dikkatine sunulur.
+
 ### Giriş Ekranı
 ![Giriş Ekranı](assets/git-image/9.JPG)
 ![Giriş Ekranı](assets/git-image/6.JPG) <br>
 Kullanıcılar e-posta adresleri ve şifreleriyle giriş yapabilir veya yeni bir hesap oluşturabilirler.
-
-### Ana Sayfa
-![Ana Sayfa](assets/git-image/1.JPG) <br>
-Yeni sezon ürünleri ve özel indirimler ana sayfada kullanıcıların dikkatine sunulur.
 
 ### Ürün Listesi
 ![Ürün Listesi](assets/git-image/2.JPG) <br>
@@ -22,7 +22,7 @@ Kullanıcılar farklı kategorilerdeki ürünleri görüntüleyebilir ve favori 
 Kullanıcılar beğendikleri ürünleri sepete ekleyebilir ve satın alma işlemlerini gerçekleştirebilirler.
 
 ### Ürün Görüntüleme
-![Ürün Görüntüleme](assets/git-image/12.JPG) <br>
+![Ürün Görüntüleme](assets/git-image/12.JPG)<br>
 Kullanıcılar çeşitli giyim ürünlerini görüntüleyebilir ve favorilerine ekleyebilirler.
 
 
