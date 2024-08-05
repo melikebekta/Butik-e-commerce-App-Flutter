@@ -57,7 +57,7 @@ Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue 
 
 ## Lisans
 
-Bu proje  ile lisanslanmıştır.
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ## İletişim
 
