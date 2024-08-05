@@ -26,7 +26,7 @@ Kullanıcılar beğendikleri ürünleri sepete ekleyebilir ve satın alma işlem
 Kullanıcılar çeşitli giyim ürünlerini görüntüleyebilir ve favorilerine ekleyebilirler.
 
 
-### Diğer Sayfalar
+### Ekran Görüntüleri
 ![Giriş Ekranı](assets/git-image/3.JPG)
 ![Giriş Ekranı](assets/git-image/5.JPG) <br>
 ![Giriş Ekranı](assets/git-image/7.JPG)
