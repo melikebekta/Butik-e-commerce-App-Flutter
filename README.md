@@ -5,15 +5,15 @@ Bu proje, kullanıcıların çeşitli giyim ürünlerini görüntüleyip satın 
 ## Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı](assets\git-image\9.jpg)
+![Giriş Ekranı](assets/git-image/9.jpg)
 Kullanıcılar e-posta adresleri ve şifreleriyle giriş yapabilir veya yeni bir hesap oluşturabilirler.
 
 ### Ana Sayfa
-![Ana Sayfa](assets\git-image\1.jpg)
+![Ana Sayfa](assets/git-image/1.jpg)
 Yeni sezon ürünleri ve özel indirimler ana sayfada kullanıcıların dikkatine sunulur.
 
 ### Ürün Listesi
-![Ürün Listesi](assets\git-image\2.jpg)
+![Ürün Listesi](assets/git-image/2.jpg)
 Kullanıcılar farklı kategorilerdeki ürünleri görüntüleyebilir ve favori ürünlerini işaretleyebilirler.
 
 ## Özellikler
@@ -60,4 +60,4 @@ Bu proje  ile lisanslanmıştır.
 
 ## İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bize ulaşın: [melike.bektas0605@gmail.com](melike.bektas0605@gmail.com)
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana ulaşın: [melike.bektas0605@gmail.com](melike.bektas0605@gmail.com)
