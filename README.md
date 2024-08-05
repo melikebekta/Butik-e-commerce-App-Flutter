@@ -17,11 +17,25 @@ Yeni sezon ürünleri ve özel indirimler ana sayfada kullanıcıların dikkatin
 ![Ürün Listesi](assets/git-image/2.JPG) <br>
 Kullanıcılar farklı kategorilerdeki ürünleri görüntüleyebilir ve favori ürünlerini işaretleyebilirler.
 
-## Özellikler
+### Sepet Yönetimi
+![Sepet Yönetimi](assets/git-image/4.JPG) <br>
+Kullanıcılar beğendikleri ürünleri sepete ekleyebilir ve satın alma işlemlerini gerçekleştirebilirler.
 
+### Ürün Görüntüleme
+![Ürün Görüntüleme](assets/git-image/12.JPG) <br>
+Kullanıcılar çeşitli giyim ürünlerini görüntüleyebilir ve favorilerine ekleyebilirler.
+
+
+### Diğer Sayfalar
+![Giriş Ekranı](assets/git-image/3.JPG)
+![Giriş Ekranı](assets/git-image/5.JPG) <br>
+![Giriş Ekranı](assets/git-image/7.JPG)
+![Giriş Ekranı](assets/git-image/8.JPG) <br>
+![Giriş Ekranı](assets/git-image/10.JPG)
+![Giriş Ekranı](assets/git-image/11.JPG) <br>
+
+## Özellikler
 - **Üye Girişi ve Kayıt:** Kullanıcılar e-posta adresleri ve şifreleriyle giriş yapabilir veya yeni bir hesap oluşturabilirler.
-- **Ürün Görüntüleme:** Kullanıcılar çeşitli giyim ürünlerini görüntüleyebilir ve favorilerine ekleyebilirler.
-- **Sepet Yönetimi:** Kullanıcılar beğendikleri ürünleri sepete ekleyebilir ve satın alma işlemlerini gerçekleştirebilirler.
 - **İndirimler ve Kampanyalar:** Özel indirimler ve kampanyalar ana sayfada kullanıcıların dikkatine sunulur.
 - **Kolay Navigasyon:** Kullanıcı dostu arayüz sayesinde uygulama içinde kolayca gezinebilirsiniz.
 

@@ -347,7 +347,7 @@ class _ConnectionWidgetState extends State<ConnectionWidget> {
 }
 
 void launchInstagram(BuildContext context) async {
-  final url = 'https://www.instagram.com/modagulay';
+  final url = 'https://www.instagram.com/';
   try {
     await customTabs.launch(
       url,
@@ -364,7 +364,7 @@ void launchInstagram(BuildContext context) async {
 }
 
 void launchYoutube() async {
-  final url = 'https://www.youtube.com/channel/UCDP5eexCh5phF2ibLIPdq2Q';
+  final url = 'https://www.youtube.com/';
   final youtubeAppUrl = 'vnd.youtube:$url';
 
   try {
