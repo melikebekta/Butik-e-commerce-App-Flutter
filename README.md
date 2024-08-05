@@ -52,11 +52,11 @@ Kullanıcılar çeşitli giyim ürünlerini görüntüleyebilir ve favorilerine 
     ```
 3. Gerekli bağımlılıkları yükleyin:
     ```bash
-    npm install
+    flutter pub get
     ```
 4. Uygulamayı başlatın:
     ```bash
-    npm start
+    flutter run
     ```
 
 ## Kullanılan Teknolojiler
