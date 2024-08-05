@@ -27,12 +27,12 @@ Kullanıcılar çeşitli giyim ürünlerini görüntüleyebilir ve favorilerine 
 
 
 ### Ekran Görüntüleri
-![Giriş Ekranı](assets/git-image/3.JPG)
-![Giriş Ekranı](assets/git-image/5.JPG) <br>
-![Giriş Ekranı](assets/git-image/7.JPG)
-![Giriş Ekranı](assets/git-image/8.JPG) <br>
-![Giriş Ekranı](assets/git-image/10.JPG)
-![Giriş Ekranı](assets/git-image/11.JPG) <br>
+![Ekran](assets/git-image/3.JPG)
+![Ekran](assets/git-image/5.JPG) <br>
+![Ekran](assets/git-image/7.JPG)
+![Ekran](assets/git-image/8.JPG) <br>
+![Ekran](assets/git-image/10.JPG)
+![Ekran](assets/git-image/11.JPG) <br>
 
 ## Özellikler
 - **Üye Girişi ve Kayıt:** Kullanıcılar e-posta adresleri ve şifreleriyle giriş yapabilir veya yeni bir hesap oluşturabilirler.
